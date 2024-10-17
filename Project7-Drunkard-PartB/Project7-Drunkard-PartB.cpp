@@ -1,3 +1,11 @@
+/*
+*Author: Chase McCluskey
+*Date: 10/17/2024
+*File: LabProblem7A.2 
+*
+* Description: Caluclating expected and estimated distances trvaled by 10,000 drunkards 
+*/
+
 #include <iostream>
 #include <ctime>
 #include <cstdlib>
