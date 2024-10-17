@@ -1,12 +1,3 @@
-/*
-* Author: Chase McCluskey
-* Date: 10/17/2024
-* File: Lab Problem7A.1
-* 
-* Desription: Calculating expected and average distance traveled by 10,000 drunkards
-*/
-
-
 #include <iostream>
 #include <ctime>
 #include <cstdlib>
